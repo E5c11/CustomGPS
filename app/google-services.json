@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "392849074300",
+    "project_id": "customgps",
+    "storage_bucket": "customgps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392849074300:android:f8f80d9bd2e80a871b81f9",
+        "android_client_info": {
+          "package_name": "com.esc.test.customgps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392849074300-kr4vsi4rm6lipoha3ei8ih2ulif4ak8g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.esc.test.customgps",
+            "certificate_hash": "6ba0ef08a8bcba6c2f57b83151b9e1fa3d865873"
+          }
+        },
+        {
+          "client_id": "392849074300-9skv4b94r0utc88ps93d0bbqmupr76vh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfzF0hDvddUpO9U0fHhvL-a74mX5kl7Jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392849074300-9skv4b94r0utc88ps93d0bbqmupr76vh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
